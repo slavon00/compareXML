@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CompareXML">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3574813818 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PropertyDifference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PropertyDifference_pte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3574813818 - Field 1913401123 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the fKey field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PropertyDifference_pte - Field fKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3574813818 - Field 1913401123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PropertyDifference_pte - Field fKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3574813818 - Field 2397723431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PropertyDifference_pte - Field Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3574813818 - Field 1125457875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PropertyDifference_pte - Field Target - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2926591259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Property</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Property_pte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2926591259 - Field 1913401123 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Key field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Property_pte - Field fKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2926591259 - Field 1913401123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Property_pte - Field fKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2926591259 - Field 2892693167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Property_pte - Field fValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2573357540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compare XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Compare XML_pte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2573357540 - Control 2731678701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Compare XML_pte - Control SourceFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2573357540 - Control 286726321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Compare XML_pte - Control TargetFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2573357540 - Action 3577097913 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compares.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Compare XML_pte - Action Compare - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2573357540 - Action 3577097913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compare</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Compare XML_pte - Action Compare - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Property Differences</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Control 2397723431 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Source field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Control Source - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Control 2397723431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Control Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Control 1125457875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Target field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Control Target - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Control 1125457875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Control Target - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Action 805980957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deletes same.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Action DeleteSame - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Action 805980957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Same</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Action DeleteSame - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Action 2829719831 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sets properties.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Action SetProperty - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2671727207 - Action 2829719831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Property</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PropertyDifferences_pte - Action SetProperty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3594056614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View XML</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ViewXML_pte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3594056614 - Control 2892693167 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Value field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ViewXML_pte - Control fValue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3594056614 - Control 2892693167 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ViewXML_pte - Control fValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3594056614 - Action 701918397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Uploads</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ViewXML_pte - Action Upload - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3594056614 - Action 701918397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ViewXML_pte - Action Upload - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4259438947 - EnumValue 2397723431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PropertyType_pte - EnumValue Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4259438947 - EnumValue 1125457875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PropertyType_pte - EnumValue Target - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

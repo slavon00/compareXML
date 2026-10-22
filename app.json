@@ -1,0 +1,37 @@
+{
+  "id": "2d1cfd5c-f5b5-4c51-a0d9-949965145c74",
+  "name": "CompareXML",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "CompareXML",
+  "description": "CompareXml",
+  "privacyStatement": "https://www.aricoma.com/",
+  "EULA": "https://www.aricoma.com/",
+  "help": "https://www.aricoma.com/",
+  "url": "https://www.aricoma.com/",
+  "contextSensitiveHelpUrl": "https://www.aricoma.com/",
+  "applicationInsightsConnectionString": "71dfe82a-4676-4c93-906d-a1bdc16cc4f1",
+  "logo": "logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "27.0.0.0",
+  "application": "27.4.0.0",
+  "idRanges": [
+    {
+      "from": 87654,
+      "to": 98765
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.1",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "target": "Cloud",
+  "suppressWarnings": ["AS0084","AA0247", "LC0010", "LC0084", "LC0090"]
+}
